@@ -1,0 +1,10 @@
+.
+├── dist
+│   └── pruebas.js
+├── estructura.txt
+├── index.html
+├── src
+│   └── pruebas.ts
+└── teoría.ts
+
+3 directories, 5 files
